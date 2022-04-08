@@ -6,7 +6,7 @@ The player can select up to 3 teammates and has access to the information of pot
 
 ## Clone
 
-You can the project through HTTPS or SSH depending on your local git configuration.
+You can clone the project through HTTPS or SSH depending on your local git configuration.
 
 ### HTTPS
 
